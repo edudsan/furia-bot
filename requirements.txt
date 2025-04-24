@@ -1,0 +1,4 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+python-twilio==8.2.0
+shelve==0.0.1
